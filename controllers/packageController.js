@@ -1,4 +1,4 @@
-const BuiltInPackage = require('../models/BuiltInPackage');
+const BuiltInPackage = require('../models/builtinpackage');
 
 exports.getAllPackages = async (req, res) => {
   try {
